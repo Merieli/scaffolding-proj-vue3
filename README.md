@@ -47,10 +47,16 @@ Run Locally
   git clone https://link-to-project
 
 # Go to the project directory
-  cd pokedex
+  cd {project-name}
+
+# Update all dependencies
+  npm update
 
 # Install dependencies
   npm install
+
+# Install compatible Node.js with nvm
+  nvm use
 
 # Start the server
   npm run dev
