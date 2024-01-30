@@ -43,6 +43,14 @@
 
 Run Locally
 ```bash
+# Remover comandos de package quando projeto estiver criado
+# Atualiza os pacotes npm com a ultima versão 
+npm install [package]@latest
+
+# Usar o script shell para gerar os comandos de atualização de pacotes
+~/scripts/update_npm_dep.sh ./package.json
+# ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 # Clone the project
   git clone https://link-to-project
 
