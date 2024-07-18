@@ -1,6 +1,6 @@
 ---
 name: Pull Request
-about: Add a PR for this project
+about: Suggest an idea for this project
 title: ''
 labels: ''
 assignees: ''
